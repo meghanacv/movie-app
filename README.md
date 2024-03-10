@@ -13,3 +13,4 @@ This is a simple movie app built using HTML, CSS, and JavaScript. It utilizes a 
 - JavaScript
 - TMDB API
 
+![image](https://github.com/meghanacv/movie-app/assets/49053653/8658ef2a-9e6c-4e1c-b98e-b6c70c2e0c23)
